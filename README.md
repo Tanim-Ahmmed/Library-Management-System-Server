@@ -8,7 +8,7 @@ A RESTful API built with **Node.js**, **Express.js**, **TypeScript**, and **Mong
 
 ## 📂 Repositories
 
-- **Client:** [Library-Management-Client (React TypeScript	Redux Toolkit  RTK Query Client)](https://github.com/Tanim-Ahmmed/Library-Management-System-Server)  
+- **Client:** [Library-Management-Client (React TypeScript	Redux Toolkit  RTK Query Client)](https://github.com/Tanim-Ahmmed/Library-Management-System)  
 - **Server:** [Library Management-Server (Node.js, Express.js, TypeScript,  Backend)](https://github.com/Tanim-Ahmmed/Library-Management-System-Server)
 
 ##  Features
