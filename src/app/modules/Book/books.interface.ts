@@ -9,7 +9,6 @@ export interface IBooks {
     description: string;
     copies: number;
     available: boolean;
-
 }
 
 export interface IBooksMethods {

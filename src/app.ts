@@ -5,7 +5,9 @@ import routerBorrow from './app/modules/Borrow/borrow.routes';
 const app: Application = express();
 
 app.use(express.json());
-app.use(cors());
+app.use(cors({
+  origin: ['http://localhost:5173', 'https://bookbuddy-library.vercel.app']
+}));
 
 app.use('/api',routerBook);
 app.use('/api',routerBorrow);
